@@ -32,8 +32,8 @@ body { min-height: 100vh; }
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	height: 50%;
-	width: 50%
+	height: 200px;
+	width: 400px;
 }
 .imgh{
 	border-radius: 5px;
@@ -41,7 +41,7 @@ body { min-height: 100vh; }
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	height: 100%;
-	width: 50%
+	height: 400px;
+	width: 200px;
 }
 
