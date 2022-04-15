@@ -36,6 +36,7 @@ head{
 	margin-right: auto;
 	height: 200px;
 	width: 400px;
+	object-fit: cover; 
 }
 .imgh{
 	border-radius: 5px;
@@ -45,5 +46,6 @@ head{
 	margin-right: auto;
 	height: 400px;
 	width: 200px;
+	object-fit: cover;
 }
 
